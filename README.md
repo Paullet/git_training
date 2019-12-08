@@ -10,4 +10,5 @@ Zobacz mój kod w Pythonie!:
 ```python
 def my_functional (): {
 print ("Hello word") 
-}```
+}
+```
