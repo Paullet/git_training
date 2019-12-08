@@ -8,6 +8,6 @@ Instrukacja do mojego projektu:
 Zobacz mój kod w Pythonie!:
 
 ```python
-functional test () {
-console.log ("Hello word") 
+def my_functional (): {
+print ("Hello word") 
 }```
